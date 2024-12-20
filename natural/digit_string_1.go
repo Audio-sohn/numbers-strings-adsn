@@ -13,5 +13,7 @@ package natural
 // Diese Funktion muss nur für den Normalfall (Zahlen >= 21) funktionieren.
 func DigitString1(digit int) string {
 	// TODO
+
+	//hi ich hab hier was entwickelt
 	return ""
 }
