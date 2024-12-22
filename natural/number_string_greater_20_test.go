@@ -16,6 +16,7 @@ func ExampleNumberStringGreater20() {
 	fmt.Println(NumberStringGreater20(999))
 	fmt.Println(NumberStringGreater20(103))
 	fmt.Println(NumberStringGreater20(113))
+	fmt.Println(NumberStringGreater20(100))
 
 	// Output:
 	// zwanzig
@@ -31,4 +32,5 @@ func ExampleNumberStringGreater20() {
 	// neunhundertneunundneunzig
 	// einhundertdrei
 	// einhundertdreizehn
+	// einhundert
 }
